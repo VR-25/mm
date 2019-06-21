@@ -54,10 +54,10 @@ Features list
 
 ## SETUP
 
-- Install
-1. Flash live (e.g., from Magisk Manager) or from custom recovery (e.g., TWRP).
+Install
+- Flash live (e.g., from Magisk Manager) or from custom recovery (e.g., TWRP).
 
-- Uninstall
+Uninstall
 - Use Magisk Manager app or mm itself (supports `uninstall.sh`, too).
 
 
